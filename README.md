@@ -39,7 +39,7 @@ Bankomatda quyidagi xususiyatlari bo’ladi:
   Agar mijoz cardni to’ldirmoqchi bo’lganda, kiritgan kupyurasi uchun bankomatda bunday kupyura qutisi bo’lmasa, mijzoga bu haqida xabar qaytarishi kerak va kupyura mijozga qaytariladi.<br> 
 
 </p>
-<br><br>
+<br>
 <h2 align="center">USERS</h2>
 <p>
 Tizimda ikkita foydalanuvchi bo’ladi:<br>
