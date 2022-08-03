@@ -27,7 +27,7 @@ public class Card implements UserDetails {
     @GeneratedValue
     private Integer id;
 
-    @Column(nullable = false)
+    @Column(nullable = false,length = 16)
     private String cardNumber;
 
     @ManyToOne
@@ -42,7 +42,7 @@ public class Card implements UserDetails {
     @Column(nullable = false)
     private Date expireDate;
 
-    @Column(nullable = false)
+    @Column(nullable = false,length = 4)
     private String pinCode;
 
     @Column(nullable = false)
